@@ -24,11 +24,11 @@ class Solution:
         for i in range(m):
             if matrix[i][0] == 0:
                 clr_col = True
-            for j in range(1,n):
+            for j in range(1,n): # we dont want it to affect [0][0]
                 if matrix[i][j] == 0:
                     matrix[0][j] = 0
                     matrix[i][0] = 0
-        print(matrix)
+
         for i in range(m-1,-1,-1):
             for j in range(n-1,0,-1):
                 if matrix[0][j] == 0 or matrix[i][0] == 0:
