@@ -14,4 +14,10 @@ class Solution:
         
         # 2.flip
         for i in range(n):
-            matrix[i] = matrix[i][::-1]
+            left, right = 0, n-1
+            while left < right:
+                t = matrix[i][left]
+                matrix[i][left] = matrix[i][right]
+                matrix[i][right] = t
+                left += 1
+                right -= 1
