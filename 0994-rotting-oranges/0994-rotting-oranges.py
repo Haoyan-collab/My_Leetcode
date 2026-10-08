@@ -17,8 +17,6 @@ class Solution:
             return 0
         while q:
             i, j, t = q.popleft()
-            # if cnt == 0:
-            #     return t
             dirs = [(-1,0),(1,0),(0,-1),(0,1)]
             for x, y in dirs:
                 ni = i + x
