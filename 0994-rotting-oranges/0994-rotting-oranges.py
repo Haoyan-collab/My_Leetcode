@@ -22,7 +22,6 @@ class Solution:
                 ni = i + x
                 nj = j + y
                 if 0 <= ni < m and 0 <= nj < n and grid[ni][nj] == 1:
-                    print("t:",t,"grid:",grid)
                     grid[ni][nj] = 2
                     q.append((ni,nj,t+1))
                     cnt -= 1
