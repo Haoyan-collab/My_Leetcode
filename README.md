@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0649-dota2-senate](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0649-dota2-senate/) | Medium |
+| [1396-design-underground-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1396-design-underground-system/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [1396-design-underground-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1396-design-underground-system/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3265-count-almost-equal-pairs-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/3265-count-almost-equal-pairs-i/) | Medium |
 ## Math
@@ -208,4 +210,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0175-combine-two-tables](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 | [0577-employee-bonus](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1396-design-underground-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1396-design-underground-system/) | Medium |
 <!---LeetCode Topics End-->
