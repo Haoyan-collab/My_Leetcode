@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0242-valid-anagram](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0649-dota2-senate](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0649-dota2-senate/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -83,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
