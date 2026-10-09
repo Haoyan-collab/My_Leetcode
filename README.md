@@ -206,4 +206,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0175-combine-two-tables/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 <!---LeetCode Topics End-->
