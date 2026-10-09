@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0056-merge-intervals](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0198-house-robber](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0704-binary-search](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -88,4 +89,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0056-merge-intervals/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0198-house-robber](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0198-house-robber/) | Medium |
 <!---LeetCode Topics End-->
