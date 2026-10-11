@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0443-string-compression](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0649-dota2-senate](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0791-custom-sort-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [1396-design-underground-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1396-design-underground-system/) | Medium |
@@ -110,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0015-3sum/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0344-reverse-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0443-string-compression](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0443-string-compression/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
