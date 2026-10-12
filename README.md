@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1861-rotating-the-box](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3265-count-almost-equal-pairs-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/3265-count-almost-equal-pairs-i/) | Medium |
 ## Depth-First Search
@@ -78,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0885-spiral-matrix-iii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [0994-rotting-oranges](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
+| [1861-rotating-the-box](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -116,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0344-reverse-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0443-string-compression/) | Medium |
+| [1861-rotating-the-box](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
