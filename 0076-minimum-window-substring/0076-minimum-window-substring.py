@@ -10,9 +10,10 @@ class Solution:
         tcnt = {}
         for c in t:
             tcnt[c] = tcnt.get(c,0) + 1
-
+        # target: check if it meets every requirement of char
         target = len(tcnt)
         window = {}
+        # cur: how many meets the requirement
         cur = 0
         left, right = 0, 0
         while right < m:
@@ -22,7 +23,7 @@ class Solution:
             if rt in tcnt and tcnt[rt] == window[rt]:
                 cur += 1
                 if cur == target:
-                    while cur == target:
+                    while cur == target:  # find the minimun size of window
                         lt = s[left]
                         window[lt] = window.get(lt,0) - 1
                         if lt in tcnt and tcnt[lt] > window[lt]:
@@ -36,6 +37,7 @@ class Solution:
 
         if ans == float('inf'):
             return ""
+    
         i,j = idx
 
         return "".join(s[i:j])
