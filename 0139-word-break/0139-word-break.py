@@ -6,12 +6,7 @@ class Solution:
 
         for i in range(1,n+1):
             for c in wordDict:
-                # if i == 4 and c == 's':
-                #     print(s[i-len(c):i])
-                #     print(dp[i-len(c)])
                 if len(c) <= i and s[i-len(c):i] == c:
-                    print(s[i-len(c):i])
-                    print(dp[i-len(c)])
                     dp[i] = dp[i-len(c)] or dp[i]
         print(dp)
         return dp[-1]
