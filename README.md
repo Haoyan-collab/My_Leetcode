@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0322-coin-change](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0704-binary-search](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0200-number-of-islands](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0207-course-schedule/) | Medium |
+| [0322-coin-change](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0733-flood-fill](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 ## Matrix
@@ -173,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0198-house-robber/) | Medium |
+| [0322-coin-change](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0322-coin-change/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,4 +269,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0207-course-schedule/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
