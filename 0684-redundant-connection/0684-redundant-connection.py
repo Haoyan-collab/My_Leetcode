@@ -1,6 +1,6 @@
 class Solution:
     def findRedundantConnection(self, edges: list[list[int]]) -> list[int]:
-        parent = [i for i in range(1001)]
+        parent = list(range(len(edges)+1))
 
         def find(x):
             if parent[x] != x:
