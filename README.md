@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0139-word-break/) | Medium |
 | [0242-valid-anagram](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0344-reverse-string/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0649-dota2-senate](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0649-dota2-senate/) | Medium |
@@ -115,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0003-longest-substring-without-repeating-characters](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0209-minimum-size-subarray-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0424-longest-repeating-character-replacement](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
