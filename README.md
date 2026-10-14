@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0036-valid-sudoku](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0036-valid-sudoku/) | Medium |
+| [0046-permutations](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0054-spiral-matrix](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0054-spiral-matrix/) | Medium |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0078-subsets/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
