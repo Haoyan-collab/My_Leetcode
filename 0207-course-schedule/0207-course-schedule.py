@@ -16,7 +16,6 @@ class Solution:
             if degree == 0:
                 q.append(i)
                 finished += 1
-                print(i)
         
         while q:
             pre = q.popleft()
@@ -25,6 +24,5 @@ class Solution:
                 if indegree[i] == 0:
                     q.append(i)
                     finished += 1
-                    print("append:",i)
 
         return finished == numCourses
