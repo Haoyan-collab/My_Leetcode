@@ -8,5 +8,4 @@ class Solution:
             for c in wordDict:
                 if len(c) <= i and s[i-len(c):i] == c:
                     dp[i] = dp[i-len(c)] or dp[i]
-        print(dp)
         return dp[-1]
