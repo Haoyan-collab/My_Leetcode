@@ -9,17 +9,14 @@ class Solution:
         while left < right:
             while right > left and lmx >= rmx:
                 right -= 1
-                rmx = max(rmx, height[right])
-                
+                rmx = max(rmx, height[right])    
                 ans += rmx - height[right]
-                print("rmx:",rmx,"right:",right,"ans",ans)
                 
-
             while left < right and lmx < rmx:
                 left += 1
                 lmx = max(lmx, height[left])
                 ans += lmx - height[left]
-                print("lmx:",lmx,"left:",left,"ans",ans)
+
                 
 
         return ans 
