@@ -4,7 +4,7 @@ class Solution:
         left, right = 0, n-1
         if n == 1:
             return 0
-        while left < right and nums[left] < nums[left+1] and nums[right] < nums[right-1]:
+        while left <= right and nums[left] < nums[left+1] and nums[right] < nums[right-1]:
             left += 1
             right -= 1
         print(left, right)
