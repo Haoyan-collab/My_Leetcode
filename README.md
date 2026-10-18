@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0056-merge-intervals](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0078-subsets/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -107,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0054-spiral-matrix/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0200-number-of-islands](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0289-game-of-life](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
@@ -199,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0162-find-peak-element](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
