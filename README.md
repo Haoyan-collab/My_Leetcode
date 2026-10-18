@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0139-word-break/) | Medium |
 | [0162-find-peak-element](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
@@ -143,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0189-rotate-array](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Simulation
@@ -164,6 +166,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0189-rotate-array](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0443-string-compression/) | Medium |
