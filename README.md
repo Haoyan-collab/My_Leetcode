@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0443-string-compression/) | Medium |
+| [0567-permutation-in-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0649-dota2-senate](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0791-custom-sort-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -136,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0567-permutation-in-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0791-custom-sort-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1396-design-underground-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1396-design-underground-system/) | Medium |
@@ -172,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0283-move-zeroes](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0443-string-compression/) | Medium |
+| [0567-permutation-in-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [1861-rotating-the-box](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -196,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0567-permutation-in-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
