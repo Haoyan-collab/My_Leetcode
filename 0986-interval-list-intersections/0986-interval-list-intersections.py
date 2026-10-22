@@ -13,8 +13,6 @@ class Solution:
             while j < m and (firstList[j][1]<lb):
                 j += 1
 
-            # if firstList[j][0] > rb:
-            #     continue
             while j<m and firstList[j][0] <= rb:
                 ans.append([max(firstList[j][0],lb),min(firstList[j][1],rb)])
                 j += 1
