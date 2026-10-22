@@ -6,14 +6,16 @@ class Solution:
             return []
         
         ans = []
-        for i,lengthb in enumerate(secondList):
-            lb = lengthb[0]
-            rb = lengthb[1]
-            j = 0
-            while j < m and (firstList[j][1]<lb):
-                j += 1
-
-            while j<m and firstList[j][0] <= rb:
-                ans.append([max(firstList[j][0],lb),min(firstList[j][1],rb)])
-                j += 1
+        a, b = 0,0
+        while a < m and b < n:
+            a1,a2 = firstList[a]
+            b1,b2 = secondList[b]
+            left = max(a1,b1)
+            right = min(a2,b2)
+            if left <= right:
+                ans.append([left,right])
+            if a2 < b2:
+                a += 1
+            else:
+                b += 1
         return ans
