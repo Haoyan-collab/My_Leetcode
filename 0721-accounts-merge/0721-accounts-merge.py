@@ -1,35 +1,33 @@
 from collections import defaultdict
 class Solution:
     def accountsMerge(self, accounts: list[list[str]]) -> list[list[str]]:
+        nm = {}
         graph = defaultdict(set)
-        e2name = defaultdict(str)
-        for acc in accounts:
-            name = acc[0]
-            e = acc[1]
-            e2name[e] = name
+        for account in accounts:
+            name = account[0]
+            e = account[1]
             graph[e]
-            for i in range(2,len(acc)):
-                graph[e].add(acc[i])
-                graph[acc[i]].add(e)
-                e2name[acc[i]] = name
+            nm[e] = name
+            for i in range(2,len(account)):
+                graph[e].add(account[i])
+                graph[account[i]].add(e)
+                nm[account[i]] = name
         
-        visited = set()
+        ans = []
+        visited = {}
         def dfs(e,path):
             if e in visited:
                 return
-            visited.add(e)
-            st = graph[e]
-            name = e2name[e]
+            visited[e] = True
             path.append(e)
-            for mails in st:
-                dfs(mails,path)
+            for email in graph[e]:
+                dfs(email,path)
 
-        ans = []
         for e in graph.keys():
-            if e not in visited:
-                path = []
-                dfs(e,path)
-                name = e2name[e]
-                ans.append([name]+sorted(path))
-        
+            if e in visited:
+                continue
+            path = []
+            name = nm[e]
+            dfs(e,path)
+            ans.append([name]+sorted(path))
         return ans
