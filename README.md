@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1329-sort-the-matrix-diagonally](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1861-rotating-the-box](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1861-rotating-the-box/) | Medium |
+| [2043-simple-bank-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3265-count-almost-equal-pairs-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/3265-count-almost-equal-pairs-i/) | Medium |
 ## Depth-First Search
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0981-time-based-key-value-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1396-design-underground-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1396-design-underground-system/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2043-simple-bank-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3265-count-almost-equal-pairs-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/3265-count-almost-equal-pairs-i/) | Medium |
 ## Math
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0289-game-of-life/) | Medium |
 | [0498-diagonal-traverse](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0885-spiral-matrix-iii/) | Medium |
+| [2043-simple-bank-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -374,6 +377,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1396-design-underground-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1396-design-underground-system/) | Medium |
+| [2043-simple-bank-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
