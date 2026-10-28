@@ -194,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0981-time-based-key-value-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1396-design-underground-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1396-design-underground-system/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1797-design-authentication-manager](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1797-design-authentication-manager/) | Medium |
 | [2043-simple-bank-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3265-count-almost-equal-pairs-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/3265-count-almost-equal-pairs-i/) | Medium |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
+| [1797-design-authentication-manager](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1797-design-authentication-manager/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -429,6 +431,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1396-design-underground-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1396-design-underground-system/) | Medium |
+| [1797-design-authentication-manager](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1797-design-authentication-manager/) | Medium |
 | [2043-simple-bank-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -518,4 +521,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1797-design-authentication-manager](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1797-design-authentication-manager/) | Medium |
 <!---LeetCode Topics End-->
