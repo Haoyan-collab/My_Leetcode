@@ -1,11 +1,8 @@
 # Definition for singly-linked list.
-class ListNode:
-    def __init__(self, val=0, next=None):
-        self.val = val
-        self.next = next
-    
-    # def __lt__(self,other):
-    #     return self.val < other.val
+# class ListNode:
+#     def __init__(self, val=0, next=None):
+#         self.val = val
+#         self.next = next
 import heapq as hp
 class Solution:
     def mergeKLists(self, lists: list[ListNode | None]) -> ListNode | None:
