@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0086-partition-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -314,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0086-partition-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0086-partition-list/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0143-reorder-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0143-reorder-list/) | Medium |
