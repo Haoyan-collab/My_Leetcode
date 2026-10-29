@@ -17,8 +17,8 @@ class Solution:
                 break
         if not flag:
             return None
-        visited = {}
-        while head not in visited:
-            visited[head] = 1
-            head = head.next
-        return head
+        slow = head
+        while slow!=fast:
+            slow = slow.next
+            fast = fast.next
+        return slow
