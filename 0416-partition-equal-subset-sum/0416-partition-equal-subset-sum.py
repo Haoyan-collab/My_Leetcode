@@ -16,7 +16,7 @@ class Solution:
             if pathsum > target:
                 return False
             visited[(i,pathsum)] = dfs(i+1,pathsum) or dfs(i+1,pathsum+nums[i])
-            return dfs(i+1,pathsum) or dfs(i+1,pathsum+nums[i])
+            return visited[(i,pathsum)]
 
         if dfs(0,0):
             return True
