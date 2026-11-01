@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0763-partition-labels](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0791-custom-sort-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -36,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0649-dota2-senate](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0649-dota2-senate/) | Medium |
+| [0763-partition-labels](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0763-partition-labels/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0763-partition-labels](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0791-custom-sort-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -243,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0763-partition-labels](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 | [1861-rotating-the-box](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1861-rotating-the-box/) | Medium |
