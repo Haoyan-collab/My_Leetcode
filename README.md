@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0049-group-anagrams](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0072-edit-distance](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0091-decode-ways](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
@@ -317,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0072-edit-distance](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0091-decode-ways/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0139-word-break/) | Medium |
