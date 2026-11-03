@@ -4,8 +4,7 @@ class Solution:
         ans = 0
         idx = 0
         flag = False
-        if s == "":
-            return 0
+
         while idx<n and s[idx] == ' ':
             idx += 1
         print(idx,n)
