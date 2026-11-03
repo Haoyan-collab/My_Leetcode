@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0130-surrounded-regions](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -337,6 +338,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0072-edit-distance](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0091-decode-ways](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0091-decode-ways/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0139-word-break](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0139-word-break/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -448,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -460,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0102-binary-tree-level-order-traversal](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0199-binary-tree-right-side-view](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
@@ -612,4 +616,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0752-open-the-lock](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0752-open-the-lock/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 <!---LeetCode Topics End-->
