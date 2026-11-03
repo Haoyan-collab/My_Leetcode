@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2043-simple-bank-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3265-count-almost-equal-pairs-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/3265-count-almost-equal-pairs-i/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
