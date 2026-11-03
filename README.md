@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0752-open-the-lock](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0763-partition-labels](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0791-custom-sort-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -101,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [0733-flood-fill](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0752-open-the-lock](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0885-spiral-matrix-iii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0743-network-delay-time](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0743-network-delay-time/) | Medium |
+| [0752-open-the-lock](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0752-open-the-lock](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0752-open-the-lock/) | Medium |
 | [0763-partition-labels](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0791-custom-sort-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0791-custom-sort-string/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -602,4 +606,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0752-open-the-lock](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0752-open-the-lock/) | Medium |
 <!---LeetCode Topics End-->
