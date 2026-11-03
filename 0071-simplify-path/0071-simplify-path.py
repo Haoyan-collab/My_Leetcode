@@ -3,7 +3,6 @@ class Solution:
         sta = []
         n = len(path)
         left,right =0,0
-        ans = []
         while right < n:
             while right < n and path[right] == '/':
                 right += 1
@@ -21,10 +20,5 @@ class Solution:
                     sta.pop()
             else:
                 sta.append(cur)
-        if not sta:
-            return "/"
-        for s in sta:
-            ans.append('/')
-            ans.append(s)
         
-        return "".join(ans)
+        return "/" + "/".join(sta)
