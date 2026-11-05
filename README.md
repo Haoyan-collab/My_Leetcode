@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0078-subsets/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0130-surrounded-regions/) | Medium |
@@ -407,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0071-simplify-path](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0071-simplify-path/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0143-reorder-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0143-reorder-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -419,6 +421,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 ## Counting
@@ -670,4 +673,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->
