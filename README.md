@@ -127,6 +127,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
+| [1472-design-browser-history](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0206-reverse-linked-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [1472-design-browser-history](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1797-design-authentication-manager](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1797-design-authentication-manager/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -431,6 +433,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [1472-design-browser-history](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -550,6 +553,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1396-design-underground-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1396-design-underground-system/) | Medium |
+| [1472-design-browser-history](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1797-design-authentication-manager](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1797-design-authentication-manager/) | Medium |
 | [2043-simple-bank-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
 ## Graph Theory
@@ -654,6 +658,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1472-design-browser-history](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1472-design-browser-history/) | Medium |
 | [1797-design-authentication-manager](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1797-design-authentication-manager/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -693,6 +698,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1472-design-browser-history](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |
