@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0394-decode-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0394-decode-string/) | Medium |
+| [0399-evaluate-division](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0443-string-compression/) | Medium |
@@ -94,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0377-combination-sum-iv](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0377-combination-sum-iv/) | Medium |
+| [0399-evaluate-division](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -146,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0399-evaluate-division](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0437-path-sum-iii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -167,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0399-evaluate-division](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0429-n-ary-tree-level-order-traversal/) | Medium |
 | [0542-01-matrix](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0542-01-matrix/) | Medium |
@@ -517,6 +521,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0128-longest-consecutive-sequence](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0399-evaluate-division](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0721-accounts-merge](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -544,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0399-evaluate-division](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0743-network-delay-time/) | Medium |
@@ -617,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Shortest Path
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0399-evaluate-division](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0399-evaluate-division/) | Medium |
 | [0743-network-delay-time](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 ## Dijkstra's Algorithm
@@ -686,4 +693,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Bellman–Ford Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0399-evaluate-division/) | Medium |
+## Floyd–Warshall Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0399-evaluate-division](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0399-evaluate-division/) | Medium |
 <!---LeetCode Topics End-->
