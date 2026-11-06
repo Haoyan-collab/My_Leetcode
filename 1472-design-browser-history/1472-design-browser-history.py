@@ -2,8 +2,8 @@ from dataclasses import dataclass
 @dataclass
 class Page:
     url:str
-    prev:Page=None
-    next:Page=None
+    prev:"Page"=None
+    next:"Page"=None
 
 class BrowserHistory:
 
