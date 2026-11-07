@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0934-shortest-bridge](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0986-interval-list-intersections](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0986-interval-list-intersections/) | Medium |
 | [0994-rotting-oranges](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0994-rotting-oranges/) | Medium |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0743-network-delay-time](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0743-network-delay-time/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
+| [0934-shortest-bridge](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0934-shortest-bridge/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
+| [0934-shortest-bridge](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 ## Matrix
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0885-spiral-matrix-iii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0885-spiral-matrix-iii/) | Medium |
 | [0909-snakes-and-ladders](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0909-snakes-and-ladders/) | Medium |
+| [0934-shortest-bridge](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1091-shortest-path-in-binary-matrix/) | Medium |
 | [1329-sort-the-matrix-diagonally](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
