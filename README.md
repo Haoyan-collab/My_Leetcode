@@ -115,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0721-accounts-merge](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0724-find-pivot-index](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0724-find-pivot-index/) | Easy |
+| [0729-my-calendar-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0733-flood-fill](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0739-daily-temperatures](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0752-open-the-lock](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0752-open-the-lock/) | Medium |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0540-single-element-in-a-sorted-array](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [0729-my-calendar-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
@@ -564,6 +566,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0208-implement-trie-prefix-tree](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0295-find-median-from-data-stream](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0729-my-calendar-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1396-design-underground-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1396-design-underground-system/) | Medium |
 | [1472-design-browser-history](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1472-design-browser-history/) | Medium |
@@ -729,4 +732,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0399-evaluate-division](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0399-evaluate-division/) | Medium |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0729-my-calendar-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0729-my-calendar-i/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0729-my-calendar-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0729-my-calendar-i/) | Medium |
 <!---LeetCode Topics End-->
