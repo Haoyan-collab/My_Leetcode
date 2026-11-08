@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0934-shortest-bridge](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0934-shortest-bridge/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -403,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -526,6 +528,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -542,6 +545,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0437-path-sum-iii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -709,6 +713,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
