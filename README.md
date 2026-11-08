@@ -39,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1396-design-underground-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1396-design-underground-system/) | Medium |
+| [1400-construct-k-palindrome-strings](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -48,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0649-dota2-senate](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0763-partition-labels](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0763-partition-labels/) | Medium |
+| [1400-construct-k-palindrome-strings](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -258,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0930-binary-subarrays-with-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1396-design-underground-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1396-design-underground-system/) | Medium |
+| [1400-construct-k-palindrome-strings](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1797-design-authentication-manager](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1797-design-authentication-manager/) | Medium |
 | [2043-simple-bank-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
@@ -464,6 +467,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
+| [1400-construct-k-palindrome-strings](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3265-count-almost-equal-pairs-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/3265-count-almost-equal-pairs-i/) | Medium |
 ## Enumeration
