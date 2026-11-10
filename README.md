@@ -51,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0649-dota2-senate/) | Medium |
 | [0763-partition-labels](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0189-rotate-array](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0227-basic-calculator-ii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 ## Simulation
