@@ -1,47 +1,17 @@
 class Solution:
     def maxDiff(self, num: int) -> int:
-        x = None
+        
         num = str(num)
-        for n in num:
-            if n != '9':
-                x = n
-                break
-        mx = []
-        if x :
-            for n in num:
-                if n == x:
-                    mx.append('9')
-                else:
-                    mx.append(n)
-        else:
-            mx = num
-        mx = int("".join(mx))
+        # max
+        x = next((c for c in num if c != '9'),'9')
+        mx = int(num.replace(x,'9'))
 
-
-        idx = 0
-        x = None
-        if num[0] == '1':
-            for i in range(1,len(num)):
-                n = num[i]
-                if n != '0' and n != '1':
-                    idx = i
-                    x = n
-                    break
+        # min
+        if num[0] != '1':
+            mi = int(num.replace(num[0],'1'))
         else:
-            idx = 0
-            x = num[0]
-        mi = []
-        y = '0' if idx!=0 else '1'
-        if x:
-            for n in num:
-                if n == x:
-                    mi.append(y)
-                else:
-                    mi.append(n)
-        else:
-            mi = num
-
-        mi = int("".join(mi))
+            x = next((c for c in num[1:] if c not in '01'),'0')
+            mi = int(num.replace(x,'0'))
         return mx-mi
 
         
