@@ -460,6 +460,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1472-design-browser-history](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Monotonic Stack
@@ -469,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0084-largest-rectangle-in-histogram](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0739-daily-temperatures/) | Medium |
+| [0901-online-stock-span](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -586,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0703-kth-largest-element-in-a-stream](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0729-my-calendar-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0729-my-calendar-i/) | Medium |
 | [0731-my-calendar-ii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0731-my-calendar-ii/) | Medium |
+| [0901-online-stock-span](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0981-time-based-key-value-store/) | Medium |
 | [1396-design-underground-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1396-design-underground-system/) | Medium |
 | [1472-design-browser-history](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1472-design-browser-history/) | Medium |
@@ -734,6 +737,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+| [0901-online-stock-span](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1472-design-browser-history](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1472-design-browser-history/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
