@@ -144,6 +144,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1552-magnetic-force-between-two-balls](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1861-rotating-the-box](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2043-simple-bank-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
@@ -384,6 +385,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
