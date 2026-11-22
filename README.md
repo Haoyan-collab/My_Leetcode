@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0763-partition-labels](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1432-max-difference-you-can-get-from-changing-an-integer](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1432-max-difference-you-can-get-from-changing-an-integer/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +149,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1861-rotating-the-box](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2043-simple-bank-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3265-count-almost-equal-pairs-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/3265-count-almost-equal-pairs-i/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -390,6 +392,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1552-magnetic-force-between-two-balls](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
