@@ -19,7 +19,7 @@ class Solution:
             color[node] = 1
             for n in graph[node]:
                 if not dfs(n):
-                    color[n] = 3
+                    color[node] = 3
                     return False
             color[node]=2
             return True
