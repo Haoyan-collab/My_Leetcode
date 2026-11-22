@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2043-simple-bank-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [3265-count-almost-equal-pairs-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/3265-count-almost-equal-pairs-i/) | Medium |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Haoyan-collab/My_Leetcode/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
@@ -396,6 +397,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1760-minimum-limit-of-balls-in-a-bag/) | Medium |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1870-minimum-speed-to-arrive-on-time/) | Medium |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2064-minimized-maximum-of-products-distributed-to-any-store/) | Medium |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2226-maximum-candies-allocated-to-k-children/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
