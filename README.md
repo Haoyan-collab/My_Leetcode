@@ -42,6 +42,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1396-design-underground-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1396-design-underground-system/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -287,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-design-underground-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1396-design-underground-system/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1657-determine-if-two-strings-are-close](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1797-design-authentication-manager](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1797-design-authentication-manager/) | Medium |
 | [2043-simple-bank-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2043-simple-bank-system/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -363,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1329-sort-the-matrix-diagonally](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1329-sort-the-matrix-diagonally/) | Medium |
 | [1471-the-k-strongest-values-in-an-array](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1471-the-k-strongest-values-in-an-array/) | Medium |
 | [1552-magnetic-force-between-two-balls](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1552-magnetic-force-between-two-balls/) | Medium |
+| [1657-determine-if-two-strings-are-close](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [3265-count-almost-equal-pairs-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/3265-count-almost-equal-pairs-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -509,6 +512,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [1400-construct-k-palindrome-strings](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1400-construct-k-palindrome-strings/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1657-determine-if-two-strings-are-close](https://github.com/Haoyan-collab/My_Leetcode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [3265-count-almost-equal-pairs-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/3265-count-almost-equal-pairs-i/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
