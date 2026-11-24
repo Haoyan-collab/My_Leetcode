@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0436-find-right-interval](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0498-diagonal-traverse](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0498-diagonal-traverse/) | Medium |
@@ -352,6 +353,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0436-find-right-interval](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0621-task-scheduler](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
@@ -388,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [0436-find-right-interval](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0436-find-right-interval/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
