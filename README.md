@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0609-find-duplicate-file-in-system](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0609-find-duplicate-file-in-system/) | Medium |
 | [0621-task-scheduler](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0704-binary-search](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -341,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0344-reverse-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0443-string-compression](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0763-partition-labels](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0763-partition-labels/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0986-interval-list-intersections](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0986-interval-list-intersections/) | Medium |
@@ -362,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0436-find-right-interval](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0436-find-right-interval/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0621-task-scheduler](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0791-custom-sort-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0791-custom-sort-string/) | Medium |
@@ -381,6 +384,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -399,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0436-find-right-interval](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0436-find-right-interval/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0704-binary-search](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0729-my-calendar-i](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0729-my-calendar-i/) | Medium |
@@ -544,6 +549,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0621-task-scheduler](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0621-task-scheduler/) | Medium |
+| [0658-find-k-closest-elements](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0658-find-k-closest-elements/) | Medium |
 | [0692-top-k-frequent-words](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0743-network-delay-time](https://github.com/Haoyan-collab/My_Leetcode/tree/main/0743-network-delay-time/) | Medium |
